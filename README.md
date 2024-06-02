@@ -1,4 +1,5 @@
 # Day_3_Crypto
+( https://adityamatrix.github.io/Day_3_Crypto/)
 # Crypto Price Tracker
 It is a web application that displays current cryptocurrency prices and allows users to simulate potential investment outcomes. This application fetches real-time data from the CoinGecko API and provides an interactive user experience with a neat and responsive design.
 
